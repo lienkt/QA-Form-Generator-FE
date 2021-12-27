@@ -1,0 +1,24 @@
+{
+  "need_help": "Need help",
+  "menu": {
+    "menu_1": "Presentation",
+    "menu_2": "Specifics",
+    "menu_3": "Questions",
+    "menu_4": "Results"
+  },
+  "button": {
+    "start": "Start!",
+    "pre": "previous",
+    "next": "next",
+    "add_doc": "Add a document",
+    "add_img": "Add an image",
+    "receive_doc": "Receive my specifications"
+  },
+  "dropzone": {
+    "drag_msg": "Drag and drop your files here",
+    "or": "or",
+    "load_flie": "download them",
+    "from_computer": "from your computer",
+    "accept_files": "Only {mime} files are accepted"
+  }
+}
