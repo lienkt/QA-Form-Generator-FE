@@ -1,6 +1,6 @@
 # QA-Form-Generator-FE
 ## 1. Introduction
-This is a application to get requirements and questions of a client to send to saler before creating an order. After the client input their requirements and questions, a pdf file will be generated and sent automatically to the client and the saler.
+This is a application to get requirements and questions of a client and send them to sellers before creating an order. After the client input their requirements and questions, a pdf file will be generated and sent automatically to the client and the saler.
 
 This Frontend part of the project made by Flutter.
 
